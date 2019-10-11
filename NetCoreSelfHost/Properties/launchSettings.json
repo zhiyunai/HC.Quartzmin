@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "NetCoreSelfHost": {
+      "commandName": "Project"
+    }
+  }
+}
